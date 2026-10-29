@@ -4,7 +4,7 @@ MSc student in Automation and Control Systems at the Faculty of Technical Scienc
 
 I'm especially interested in **robotics**, **embedded systems**, **machine learning** and innovative engineering solutions. I learn best by building things, and I'm always looking for new, practical challenges.
 
-🎯 Open to internship and entry-level opportunities in automation, control engineering, embedded or software development.
+Open to internship and entry-level opportunities in automation, control engineering, embedded or software development.
 
 ## 🚀 Featured projects
 
@@ -23,12 +23,6 @@ Real-time control of a three-cylinder hydraulic system on NI CompactRIO: state m
 ### [Online News Popularity Prediction](https://github.com/marijelaveljkovic/online-news-popularity-prediction)
 Regression on ~39,000 news articles comparing linear models, Random Forest and XGBoost, with feature engineering, hyperparameter tuning and an analysis of model limitations.
 `Python` `scikit-learn` `XGBoost` `pandas`
-
-## 💼 Experience
-**Automation Engineering Intern** · [Company name] · [Month Year – Month Year]
-- Analyzed electrical schematics in AutoCAD and documented process signals (I/O lists)
-- Drew new electrical schematics for additional signals
-- Developed operator visualization screens in Schneider Electric EcoStruxure based on the electrical documentation
 
 ## 🔧 What I work with
 - **Industrial automation:** PLC programming (Siemens TIA Portal, Schneider EcoStruxure, CODESYS), SCADA/HMI, P&ID, industrial sensors
@@ -49,5 +43,3 @@ Regression on ~39,000 news articles comparing linear models, Random Forest and X
 ## 🤝 About me
 I like working in teams: sharing ideas, learning from others and helping projects move forward. Several of my projects were developed together with colleagues, and the best results came from combining different perspectives. I'm curious, persistent when a problem gets difficult, and always happy to learn something new, especially when I can apply it in practice.
 
-## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [your.email@example.com](mailto:your.email@example.com)
