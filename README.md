@@ -17,7 +17,7 @@ Multithreaded job processing service with a thread-safe priority queue, retry lo
 `C#` `.NET 8` `xUnit` `GitHub Actions`
 
 ### [Hydraulic Drive Control](https://github.com/marijelaveljkovic/hydraulic-drive-control-labview)
-Real-time control of a three-cylinder hydraulic system on NI CompactRIO: state machine control logic with edge detection, controlled shutdown and emergency stop, plus a SCADA interface over network shared variables. Team project.
+Real-time control of a three-cylinder hydraulic system on NI CompactRIO: state machine control logic with edge detection, controlled shutdown and emergency stop, plus a SCADA interface over network shared variables. 
 `LabVIEW` `LabVIEW Real-Time` `CompactRIO`
 
 ### [Online News Popularity Prediction](https://github.com/marijelaveljkovic/online-news-popularity-prediction)
